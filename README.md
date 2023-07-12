@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabycoutinho
 - 👀 I’m interested in tecnologia e natação 
 - 🌱 I’m currently learning como escrever código 
-- 💞️ I’m looking to collaborate on equipe e reposição no mercado de trabalho 
+- 💞️ I’m looking to collaborate on equipe e recolocação no mercado de trabalho 
 - 📫 How to reach me https://www.linkedin.com/in/gabriela-coutinho-8a8b9b96
 
 <!---
